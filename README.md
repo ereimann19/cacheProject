@@ -1,3 +1,5 @@
+Need to create a file data in the folder where the python scripts are held.
+
 To subscribe to the keyspace events: 
 
 sudo python3 keyspace.py u 5m
